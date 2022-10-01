@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module3"
 Option Explicit
 
 Function NewRate(x As Double, y As String) As Double
